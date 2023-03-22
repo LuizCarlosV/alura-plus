@@ -1,3 +1,7 @@
 <h1 align = "center">ALURA PLUS</h1>
 home feito no curso da alura
-![Alura +](https://user-images.githubusercontent.com/126530127/227057332-eb209f9c-d10a-4759-b117-3f5230d68f90.png)
+
+> :construction: Projeto feito no curso da Alura :construction:
+
+> :file_folder: https://luizcarlosv.github.io/alura-plus/ :file_folder:
+<h2>clique no link acima para acessar a homepage</h2>
